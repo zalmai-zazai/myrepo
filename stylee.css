@@ -1,5 +1,13 @@
 body{
-    color: blueviolet;
+    
     background-color: antiquewhite;
     size: bold;
+}
+header{
+    text-align: center;
+    height: 200px;
+   background-color:aquamarine;
+}
+a{
+    margin: 10px;
 }
