@@ -1,12 +1,13 @@
 body{
     
-    background-color: antiquewhite;
+    background-color: rgb(250, 215, 249);
     size: bold;
 }
-header{
+.headersection{
     text-align: center;
     height: 200px;
    background-color:aquamarine;
+   
 }
 a{
     margin: 10px;
